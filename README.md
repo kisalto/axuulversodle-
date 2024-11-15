@@ -1,3 +1,6 @@
 # axuulversodle - fanmade
 
-## a guessing game of the dle genre featuring every (or almost every) rpg made by @axuul[https://x.com/4xuuul]
+<div>
+  <h4>A Guessing game of the dle genre made of every (or almost every) rpgverse made by:</h4>
+  <h5><a href="https://x.com/4xuuul" />@axuul</h5>
+</div
